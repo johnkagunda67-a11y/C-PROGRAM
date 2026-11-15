@@ -1,4 +1,3 @@
-/* cylinder.c - Week 2 Task 1: Volume and surface area of a cylinder */
 #include <stdio.h>
 
 #define PI 3.14
